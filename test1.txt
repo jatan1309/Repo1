@@ -1,0 +1,7 @@
+git config --global user.email "jatan.veer@goomo.com"
+
+git config --global user.name "jatan.veer"
+
+ghjhjhjhjhjhjh
+
+
